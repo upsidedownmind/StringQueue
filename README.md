@@ -1,7 +1,7 @@
 StringQueue
 -----------
 
-Simple class to use String as Queues. This class mekes working with (simple) sreliazed content easy.
+Simple class to use String as Queues. This class makes working with (simple) serialized content easy.
 
 
 Example
