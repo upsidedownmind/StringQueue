@@ -3,6 +3,7 @@ StringQueue
 
 Simple class to use String as Queues. This class makes working with (simple) serialized content easy.
 
+TODO: add examples
 
 Example
 -------
